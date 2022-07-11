@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFinalBattle-Expansions", "TheFinalBattle-Expansions.csproj", "{4DD99EF2-304E-458B-A440-BAEE9E7E0666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD99EF2-304E-458B-A440-BAEE9E7E0666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD99EF2-304E-458B-A440-BAEE9E7E0666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD99EF2-304E-458B-A440-BAEE9E7E0666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD99EF2-304E-458B-A440-BAEE9E7E0666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4170A65E-82DD-4E8E-9A36-03AB5E8F7811}
+	EndGlobalSection
+EndGlobal
