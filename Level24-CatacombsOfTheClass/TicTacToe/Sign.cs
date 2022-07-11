@@ -1,0 +1,1 @@
+﻿public enum Sign { Empty, X, O}

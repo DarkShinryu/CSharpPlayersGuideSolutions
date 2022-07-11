@@ -1,0 +1,1 @@
+﻿public enum HandShape { Unknown, Rock, Paper, Scissors }
