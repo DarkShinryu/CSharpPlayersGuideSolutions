@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigatingOperandCity", "NavigatingOperandCity.csproj", "{BB587A11-E10F-4E3B-AE02-D16A5C331846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB587A11-E10F-4E3B-AE02-D16A5C331846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB587A11-E10F-4E3B-AE02-D16A5C331846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB587A11-E10F-4E3B-AE02-D16A5C331846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB587A11-E10F-4E3B-AE02-D16A5C331846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B50D5F20-5B29-44ED-AEB4-2DA545C9F5DF}
+	EndGlobalSection
+EndGlobal

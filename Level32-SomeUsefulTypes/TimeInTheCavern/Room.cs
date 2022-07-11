@@ -1,0 +1,1 @@
+﻿public readonly record struct Room(int Row, int Col);
